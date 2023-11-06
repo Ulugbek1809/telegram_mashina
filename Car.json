@@ -1,0 +1,99 @@
+{
+  "car": {
+    "GM": {
+      "SUV": {
+        "TAHOE": {
+          "rangi": {
+            "oq": "img/tahoe oq.jpg",
+            "qora": "img/tahoe qora.jpg"
+          },
+          "narxi": 1109274880
+        },
+        "TRAVERSE": {
+          "rangi": {
+            "oq": "img/traverse oq.png",
+            "qora": "img/tahoe qora.jpg"
+          },
+          "narxi": 734530720
+        },
+        "EQUINOX": {
+          "rangi": {
+            "oq": "img/ekinoks oq.png",
+            "qora": "img/ekinoks qora.png",
+            "qizl": "img/ekinoks qizil.png",
+            "ko'k": "img/ekinoks ko'k.png"
+          },
+          "narxi": 408450560
+        },
+        "TRACKER": {
+          "rangi": {
+            "oq": "img/treker oq.png",
+            "qora": "img/treker qora.png",
+            "qizl": "img/treker qizl.png"
+          },
+          "narxi": 223824160
+        },
+        "CAPTIVA": {
+          "rangi": {
+            "oq": "img/captiva oq.png",
+            "qora": "img/captiva qora.png",
+            "qizl": "img/captiva qizl.png"
+          },
+          "narxi": 299900000
+        }
+      },
+      "CAR-SEDAN": {
+        "MALIBU XL": {
+          "rangi": {
+            "oq": "img/malibu qora.png",
+            "qora": "img/malibu oq.png"
+          },
+          "narxi": 375000640
+        },
+        "ONIX": {
+          "rangi": {
+            "oq": "img/onix oq.png",
+            "qora": "img/onix qora.png",
+            "qizl": "img/onix qizl.png",
+            "ko'k": "img/onix ko'k.png"
+          },
+          "narxi": 184750000
+        },
+        "LACETTI": {
+          "rangi": {
+            "oq": "img/lac oq.png",
+            "qora": "img/lac qora.png",
+            "qizl": "img/lac qizil.png",
+            "ko'k": "img/lac ko'k.png"
+          },
+          "narxi": 169118000
+        },
+        "COBALT": {
+          "rangi": {
+            "oq": "img/cob oq.png",
+            "qizl": "img/cob qizl.png",
+            "ko'k": "img/cob ko'k.png"
+          },
+          "narxi": 119542000
+        }
+      },
+      "LCV": {
+        "DAMAS": {
+          "rangi": {
+            "oq": "img/damas oq.png",
+            "ko'k": "img/damas ko'k.png"
+          },
+          "narxi": 96932000
+        },
+        "LABO": {
+          "rangi": {
+            "oq": "img/labo oq.png",
+            "ko'k": "img/labo ko'k.png"
+          },
+          "narxi": 96370000
+        }
+      },
+      "img": "img/gm.jpg"
+    }
+  }
+}
